@@ -47,7 +47,8 @@ Ao longo deste projeto, foram aplicados os seguintes conhecimentos:
 
 ---
 
-## ✍️ Autor
+🙋‍♂️ Sobre Mim
+📌 Nome: Laís Silva Gomes 📧 Email: laiss.gomess1@gmail.com 🔗 LinkedIn: [(https://www.linkedin.com/in/la%C3%ADs-s-gomes-0987ab117/)]
 
 Desenvolvido por **[Seu Nome]**, como parte do desafio da plataforma **[DIO](https://www.dio.me/)**.
 
